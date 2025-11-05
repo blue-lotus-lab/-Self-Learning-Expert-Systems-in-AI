@@ -1,4 +1,5 @@
-# Academic Article: Integrating Game Theory and Reinforcement Learning for Developing Self-Learning Expert Systems in AI Response Selection
+Academic Article:
+# Integrating Game Theory and Reinforcement Learning for Developing Self-Learning Expert Systems in AI Response Selection
 
 ## Abstract
 
